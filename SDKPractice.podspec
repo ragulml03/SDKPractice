@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = 'Practice'
+  s.name         = 'SDKPractice'
   s.version      = '1.0.0'
   s.summary      = 'A practice SDK framework.'
   s.homepage     = 'https://github.com/yourusername/SDKPractice'
