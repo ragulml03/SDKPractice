@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		A47DEA782F0F9F07000748A0 /* Practice.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A47DEA6C2F0F9F07000748A0 /* Practice.framework */; };
 		A4C506CE2F17A12D001D1685 /* sonar-project.properties in Resources */ = {isa = PBXBuildFile; fileRef = A4C506CD2F17A129001D1685 /* sonar-project.properties */; };
+		A4D4C37D2F18EC0A0083A1EF /* Practice.podspec in Resources */ = {isa = PBXBuildFile; fileRef = A4D4C37C2F18EBFD0083A1EF /* Practice.podspec */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -25,6 +26,7 @@
 		A47DEA6C2F0F9F07000748A0 /* Practice.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Practice.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A47DEA772F0F9F07000748A0 /* PracticeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PracticeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A4C506CD2F17A129001D1685 /* sonar-project.properties */ = {isa = PBXFileReference; lastKnownFileType = text; path = "sonar-project.properties"; sourceTree = "<group>"; };
+		A4D4C37C2F18EBFD0083A1EF /* Practice.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = Practice.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -62,6 +64,7 @@
 		A47DEA622F0F9F07000748A0 = {
 			isa = PBXGroup;
 			children = (
+				A4D4C37C2F18EBFD0083A1EF /* Practice.podspec */,
 				A4C506CD2F17A129001D1685 /* sonar-project.properties */,
 				A47DEA6E2F0F9F07000748A0 /* Practice */,
 				A47DEA7B2F0F9F07000748A0 /* PracticeTests */,
@@ -181,6 +184,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A4C506CE2F17A12D001D1685 /* sonar-project.properties in Resources */,
+				A4D4C37D2F18EC0A0083A1EF /* Practice.podspec in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
